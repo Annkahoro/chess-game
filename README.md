@@ -19,10 +19,3 @@ This is a simple chess game implemented using HTML, CSS, and JavaScript. The gam
 2. Open `index.html` in your web browser.
 3. Start playing by clicking on the pieces to move them according to standard chess rules.
 
-## Future Enhancements
-- Implement AI for single-player mode
-- Add castling, en passant, and promotion rules
-- Improve UI with animations and sound effects
-
-## License
-This project is licensed under the MIT License.
